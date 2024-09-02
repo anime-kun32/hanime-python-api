@@ -99,8 +99,8 @@ def server_unavailable(e):
 def index():
     return jsonify({
         'status': 'ok',
-        'Credit': 'Made by NYT92',
-        'Github': 'https://github.com/nyt92/hanime-python-api',
+        'Credit': 'anime-kun32',
+        'Github': 'https://github.com/anime-kun32/hanime-python-api',
         'Version': '5.1',
     }), 200
 
